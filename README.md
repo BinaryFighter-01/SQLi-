@@ -1,4 +1,6 @@
-**Mini Project 2: Implement SQL Injection Vulnerability Attack**, reflecting the fully functional project that meets the problem statement: *"Implement SQL injection vulnerability attack that causes the application to display details of all the products available on website."* This README provides clear setup instructions, an overview, and usage details, tailored to the working code provided in the previous response.
+<h1>**Mini Project 2: Implement SQL Injection Vulnerability Attack**</h1>
+
+This project reflecting the fully functional project that meets the problem statement: *"Implement SQL injection vulnerability attack that causes the application to display details of all the products available on website."* This README provides clear setup instructions, an overview, and usage details, tailored to the working code provided in the previous response.
 
 ---
 
