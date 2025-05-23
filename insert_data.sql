@@ -1,0 +1,40 @@
+-- Insert into users (10 users)
+INSERT INTO users (username, password, role) VALUES
+('admin', 'admin123', 'admin'),
+('alice', 'pass123', 'user'),
+('bob', 'bobpass', 'user'),
+('carlos', 'carlos123', 'user'),
+('emma', 'emma456', 'user'),
+('david', 'david789', 'user'),
+('sophia', 'sophia101', 'user'),
+('liam', 'liam202', 'user'),
+('olivia', 'olivia303', 'user'),
+('noah', 'noah404', 'user');
+
+-- Insert into products (25 items)
+INSERT INTO products (name, price, stock, category, is_active) VALUES
+('Smartphone', 299.99, 10, 'Electronics', 1),
+('Laptop', 999.99, 5, 'Electronics', 1),
+('Headphones', 79.99, 15, 'Electronics', 1),
+('Smartwatch', 199.99, 8, 'Electronics', 0),
+('Wireless Mouse', 29.99, 20, 'Electronics', 1),
+('Gaming Keyboard', 59.99, 12, 'Electronics', 1),
+('4K Monitor', 349.99, 7, 'Electronics', 1),
+('Bluetooth Speaker', 89.99, 18, 'Electronics', 1),
+('T-shirt', 19.99, 25, 'Clothing', 1),
+('Jacket', 59.99, 12, 'Clothing', 0),
+('Sneakers', 69.99, 15, 'Clothing', 1),
+('Hoodie', 39.99, 20, 'Clothing', 1),
+('Jeans', 49.99, 10, 'Clothing', 1),
+('Cap', 14.99, 30, 'Clothing', 1),
+('Novel', 14.99, 15, 'Books', 1),
+('Textbook', 49.99, 7, 'Books', 0),
+('Cookbook', 29.99, 12, 'Books', 1),
+('Sci-Fi Book', 19.99, 18, 'Books', 1),
+('History Book', 39.99, 8, 'Books', 1),
+('Desk Lamp', 34.99, 20, 'Home', 1),
+('Throw Pillow', 24.99, 25, 'Home', 1),
+('Coffee Maker', 79.99, 10, 'Home', 1),
+('Vacuum Cleaner', 149.99, 5, 'Home', 0),
+('Wall Clock', 19.99, 15, 'Home', 1),
+('Plant Pot', 9.99, 30, 'Home', 1);
